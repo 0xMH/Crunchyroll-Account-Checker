@@ -37,5 +37,6 @@ I'm not sure I'll be able to make these things, so If you're interested just div
 - [ ] Threading (To make the checking faster, We could using Threading to check more than one account at the same time)
 
 ### Disclaimer: 
+I'm not responsible for anyone downloading cracked accouts list and using this tool. Of course, This whole process is ILLEGAL.
 
-If you really love anime and could afford it legally by paying to Crunchyroll, then you should do that. Gotta support the industry! :heart:
+If you really love anime and could afford it legally by paying to Crunchyroll, then you should do that, NO EXCUSES. Gotta support the industry! :heart:
