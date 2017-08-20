@@ -12,8 +12,8 @@ Simple tool to filter premium working, not woking Cracked Crunchyroll account.
 First, make sure you have [Python 3.x](https://www.python.org/downloads/), [pip](https://pip.pypa.io/en/stable/installing/), and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your machine.
 
 Run the following in your command prompt to install:
-1. `git clone https://github.com/MoHD20/OkanimeDownloader.git`
-2. `cd OkanimeDownloader` 
+1. `git clone https://github.com/MoHD20/Crunchyroll-Account-Checker.git`
+2. `cd Crunchyroll-Account-Checker` 
 3. `pip install -r requirements.txt`
 
 ## Usage
